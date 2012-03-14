@@ -1,0 +1,7 @@
+category: X11
+requires: fontconfig mkfontdir mkfontscale font-encodings
+sdesc: "Android 4.0 Roboto TrueType fonts"
+ldesc: "Ice Cream Sandwich introduces a new type family named Roboto, 
+created specifically for the requirements of UI and high-resolution 
+screens. The current TextView framework supports regular, bold, italic, 
+and bold italic weights by default."
